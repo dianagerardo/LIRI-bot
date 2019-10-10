@@ -1,6 +1,4 @@
-// require("dotenv").config();
-// var keys = require("./keys.js");
-// var spotify = new Spotify(keys.spotify);
+require("dotenv").config();
 var Object = require("./logic.js");
 
 
@@ -35,6 +33,3 @@ else if(search === "movie-this"){
 else if(search === "do-what-it-says"){
     console.log("Searching for song");
 }
-
-
-//    * You'll use the `axios` package to retrieve data from the OMDB API. Like all of the in-class activities, the OMDB API requires an API key. You may use `trilogy`.
