@@ -46,3 +46,56 @@
             Plot of the movie: A boy stands on a station platform as a train is about to leave. Should he go with his mother or stay with his father? Infinite possibilities arise from this decision. As long as he doesn't choose, anything is possible.
             Actors in the movie: undefined
             
+            
+------------------------------------------------------------
+
+
+                    Title of the movie: Pulp Fiction
+                    Year the movie came out: 1994
+                    IMDB Rating of the movie: 8.9
+                    Rotten Tomatoes Rating of the movie: undefined
+                    Country where the movie was produced: USA
+                    Language of the movie: English, Spanish, French
+                    Plot of the movie: The lives of two mob hitmen, a boxer, a gangster and his wife, and a pair of diner bandits intertwine in four tales of violence and redemption.
+                    Actors in the movie: undefined
+                    
+            
+------------------------------------------------------------
+
+
+            Name of venue: Arena Monterrey
+            Venue Location: Monterrey, Mexico 
+            Date of event: 2019-10-12T21:00:00
+            
+------------------------------------------------------------
+
+
+            Name of venue: Werchter Boutique
+            Venue Location: Rotselaar, Belgium 
+            Date of event: 2020-06-20T19:00:00
+            
+------------------------------------------------------------
+
+
+                    Title of the movie: Pulp Fiction
+                    Year the movie came out: 1994
+                    IMDB Rating of the movie: 8.9
+                    Rotten Tomatoes Rating of the movie: undefined
+                    Country where the movie was produced: USA
+                    Language of the movie: English, Spanish, French
+                    Plot of the movie: The lives of two mob hitmen, a boxer, a gangster and his wife, and a pair of diner bandits intertwine in four tales of violence and redemption.
+                    Actors in the movie: undefined
+                    
+            
+------------------------------------------------------------
+
+
+                    Title of the movie: Mr. Nobody
+                    Year the movie came out: 2009
+                    IMDB Rating of the movie: 7.8
+                    Rotten Tomatoes Rating of the movie: undefined
+                    Country where the movie was produced: Belgium, Germany, Canada, France, USA, UK
+                    Language of the movie: English, Mohawk
+                    Plot of the movie: A boy stands on a station platform as a train is about to leave. Should he go with his mother or stay with his father? Infinite possibilities arise from this decision. As long as he doesn't choose, anything is possible.
+                    Actors in the movie: undefined
+                    
